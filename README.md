@@ -41,7 +41,7 @@ Le projet est structuré en plusieurs étapes modulaires :
 
 - Langage : VHDL
 
-- FPGA ciblé : Cyclone III (ou autre compatible)
+- FPGA ciblé : Cyclone III 
 
 ## 🚀 Instructions d'utilisation
 
