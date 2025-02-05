@@ -43,7 +43,6 @@ Le projet est structuré en plusieurs étapes modulaires :
 
 - FPGA ciblé : Cyclone III (ou autre compatible)
 
-- Instructions d'utilisation
 ## 🚀 Instructions d'utilisation
 
 1️⃣ Ouvrir le projet dans Quartus II et charger les fichiers du projet.
